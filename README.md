@@ -1,0 +1,1 @@
+This project is a simple Guess the Number game built using Python. The computer randomly selects a number, and the player has to guess it. After each guess, the program provides hints whether the number is too high or too low. The game continues until the correct number is guessed.
